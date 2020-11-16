@@ -1,0 +1,26 @@
+
+{	java:S116'"ZRename this field "followed_albums" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àè„–úÿÿÿÿ8÷½¬ÄÚ.
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢µŒ§ûÿÿÿÿ8¥˜¤ÃÚ.
+o	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆŸÝßøÿÿÿÿ8¾¡´ÄÚ.
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÿïËøÿÿÿÿ8¥˜¤ÃÚ.
+u	java:S116"TRename this field "user_pass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ì®òøÿÿÿÿ8¥˜¤ÃÚ.
+p	java:S116"TRename this field "user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÚªÇ8¥˜¤ÃÚ.
+w	java:S116"[Rename this field "followed_artists" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûµÒ•8ý€ÃÃÚ.
+l	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ñós8¥˜¤ÃÚ.
+u	java:S116/"YRename this field "followed_songs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‚›¹8»¼®ÄÚ.
+o	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›þâ‚ûÿÿÿÿ8»¼®ÄÚ.
+o	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢µŒ§ûÿÿÿÿ8»¼®ÄÚ.
+z	java:S116"YRename this field "user_playlists" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÈŽ¡úÿÿÿÿ8¥˜¤ÃÚ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§÷âžûÿÿÿÿ8¥˜¤ÃÚ.
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¨ý‘þÿÿÿÿ8¾¡´ÄÚ.
+j	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¤ê¢8»¼®ÄÚ.
+j	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Óè¸8»¼®ÄÚ.
+i	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ñós8»¼®ÄÚ.
+o	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¨ý‘þÿÿÿÿ8¾¡´ÄÚ.
+r	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆŸÝßøÿÿÿÿ8¾¡´ÄÚ.
+o	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÿïËøÿÿÿÿ8»¼®ÄÚ.
+m	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¤ê¢8¥˜¤ÃÚ.
+m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ïá—8¾¡´ÄÚ.
+v	java:S116"URename this field "user_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òµž¬øÿÿÿÿ8¥˜¤ÃÚ.
+j	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ïá—8¾¡´ÄÚ.
+o	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‰…Ïÿÿÿÿÿ8»¼®ÄÚ.

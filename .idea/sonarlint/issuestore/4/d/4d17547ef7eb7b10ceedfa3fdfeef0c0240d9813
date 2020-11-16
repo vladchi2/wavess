@@ -1,0 +1,12 @@
+
+X	java:S1253"<This block of commented-out lines of code should be removed.(í™¹ö8©­âÅÚ.
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶´éƒÿÿÿÿÿ8©­âÅÚ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡«…úÿÿÿÿ8©­âÅÚ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§÷âûÿÿÿÿ8©­âÅÚ.
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş’øÿÿÿÿ8©­âÅÚ.
+z	java:S116"YRename this field "playlist_songs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ôçÿıÿÿÿÿ8©­âÅÚ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡«…úÿÿÿÿ8©­âÅÚ.
+]	java:S1255"<This block of commented-out lines of code should be removed.(¸ãåõúÿÿÿÿ8©­âÅÚ.
+X	java:S125"<This block of commented-out lines of code should be removed.(­éı”8©­âÅÚ.
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶´éƒÿÿÿÿÿ8©­âÅÚ.
+t	java:S116"XRename this field "playlist_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¹ïü8©­âÅÚ.

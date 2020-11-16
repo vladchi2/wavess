@@ -1,0 +1,32 @@
+
+^
+java:S4684Š"@Replace this persistent entity with a simple POJO or DTO object.(’¬œÆ8ÜÏÔ‰Ü.
+~	java:S116"]Rename this field "PlaylistRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸îˆ üÿÿÿÿ8øì—îÚ.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÎøÅŠıÿÿÿÿ8Ï­ŠÜ.
+c
+java:S4684»"@Replace this persistent entity with a simple POJO or DTO object.(ÉüÊ¶øÿÿÿÿ8“˜î‰Ü.
+c
+java:S4684è"@Replace this persistent entity with a simple POJO or DTO object.(­«èáùÿÿÿÿ8¸¨ü‰Ü.
+u	java:S116"YRename this field "UserRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥€¾ü8øì—îÚ.
+{	java:S116"ZRename this field "AlbumRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÇ©‹úÿÿÿÿ8øì—îÚ.
+^
+java:S4684Ë"@Replace this persistent entity with a simple POJO or DTO object.(†ÂÇ¤8ûÿËˆÜ.
+t	java:S116"YRename this field "SongRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±î°78øì—îÚ.
+W	java:S125O"<This block of commented-out lines of code should be removed.(Îœ8µ¬¹ŠÜ.
+^
+java:S4684ù"@Replace this persistent entity with a simple POJO or DTO object.(†Ù…Ê8’ì±‰Ü.
+X	java:S125a"<This block of commented-out lines of code should be removed.(ÿÙÌÍ8±ã­ŠÜ.
+c
+java:S4684–"@Replace this persistent entity with a simple POJO or DTO object.(˜ÇÒéùÿÿÿÿ8å–„ŠÜ.
+]
+java:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(Ãõò8±ã­ŠÜ.
+b
+java:S4684}"@Replace this persistent entity with a simple POJO or DTO object.(ş¿Ÿøÿÿÿÿ8øì—îÚ.
+]
+java:S46841"@Replace this persistent entity with a simple POJO or DTO object.(Ÿ³İæ8±ã­ŠÜ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§÷âûÿÿÿÿ8øì—îÚ.
+R
+java:S1128"6Remove this unused import 'javax.persistence.Convert'.(¹ü8øì—îÚ.
+w	java:S116"[Rename this field "ArtistRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ™ã–8øì—îÚ.
+c
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(±±Ö½ÿÿÿÿÿ8øì—îÚ.
